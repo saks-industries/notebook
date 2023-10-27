@@ -1,1 +1,1 @@
-iplantuml==*
+iplantuml==0.*
